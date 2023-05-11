@@ -1,2 +1,2 @@
 # AR-Marketing-Hub
-Developed this complete web app on MERN stack using HTML5/CSS3 for frontend. This app allows brands and companies to list and market their events and products to the consumer who can book tickets for events or buy products online.
+Created a comprehensive web application using the MERN stack, assuming responsibility for both frontend and backend development. This application facilitates organizations in publicly listing their events and products, allowing users to conveniently purchase tickets and make online product purchases through the web application.
